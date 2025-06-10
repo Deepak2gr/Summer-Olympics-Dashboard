@@ -113,6 +113,10 @@ The dataset is sourced from Kaggle / IOC Olympic Medal records, cleaned and filt
 This project was inspired by the desire to tell compelling stories using data, especially highlighting India's journey in global sports while comparing it to world trends in Olympic history.
 
 📸 Dashboard Preview
+![Screenshot 2025-06-10 141916](https://github.com/user-attachments/assets/805aec6b-8d2e-4b59-9c0a-c0e3f05cc7fd)
+![Screenshot 2025-06-10 142410](https://github.com/user-attachments/assets/7283da3c-ea23-478c-b48b-085af22054f4)
+
+
 
 
 Let me know if you'd like the images embedded directly in the GitHub repo or need help posting on LinkedIn too!
